@@ -1,6 +1,6 @@
 ## *Olá!, meu nome é cristian sou programador em estagio de aprimoramento.*
 ## *Bem vindo ao meu perfil!*
-<div align="center">
+<div align="left">
   <a href="https://github.com/ceiferking">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ceiferking&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceiferking&layout=compact&langs_count=7&theme=dark"/>
