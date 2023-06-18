@@ -1,4 +1,5 @@
-## *Olá!, meu nome é cristian sou programador em estagio de aprimoramento.*
+## *Olá!, meu nome é cristian sou programador em estagio de aprimoramento, sou voltado para a parte de back-end mas tenho algumas coisas desenvolvidas ultizando a parte de front-end*
+*Hard skils: Java, Spring boot, JPA:hibernate, SQL, javascript. *
 ## *Bem vindo ao meu perfil!*
 <div align="left">
   <a href="https://github.com/ceiferking">
