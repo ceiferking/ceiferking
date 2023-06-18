@@ -1,6 +1,6 @@
-## *Olá!, meu nome é cristian sou programador em estagio de aprimoramento, sou voltado para a parte de back-end mas tenho algumas coisas desenvolvidas ultizando a parte de front-end*
-*Hard skils: Java, Spring boot, JPA:hibernate, SQL, javascript. *
-## *Bem vindo ao meu perfil!*
+### *Olá!, meu nome é cristian sou programador em estagio de aprimoramento, sou voltado para a parte de back-end mas tenho algumas coisas desenvolvidas ultizando a parte de front-end*
+### *Bem vindo ao meu perfil!*
+### *Hard skils: Java, Spring boot, JPA:hibernate, SQL, javascript.*
 <div align="left">
   <a href="https://github.com/ceiferking">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ceiferking&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
