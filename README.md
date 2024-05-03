@@ -1,9 +1,10 @@
 <div>
-  <h1>👋 Olá!, eu sou Cristian! 👋</h1>
+  <h1>👋 Olá!, meu nome é Cristian! 👋</h1>
   <h2>😄 Bem vindo ao meu perfil! 😄 </h2>
-  <p>Sou programador back-end, mas tenho alguns projetos desenvolvidos ultilizando tecnologias de front-end no decorrer dos estudos em busca de aprender mais</p>
-  <p>Hard skils: Java, Spring boot, JPA:hibernate, SQL, javascript, python, selenium, C#.</p>
+  <p>Sou programador/Estudante Cursando Analise e deselvolvimento de sistemas, tenho alguns projetos desenvolvidos ultilizando tecnologias de front-end e back-end no decorrer dos estudos em busca de sempre aprender mais</p>
+  <p>Hard skils: Java, Spring boot, SQL, javascript, python, selenium, C#, CSS e HTML.</p>
   <p>Soft skils: Organização, resiliencia, facilidade em resolver problemas e comunicativo, adptativo, facilidade em aprender coisas novas.</p>
+  <p>Fique a vontade para olhar meus projetos, lembrando nem todos estão 100% funcionais</p>
 </div>
  <h2>Conecte-se comigo</h2>
   <a href="https://www.linkedin.com/in/cristian-weber-1a32981a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
