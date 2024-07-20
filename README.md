@@ -1,6 +1,6 @@
 <div>
   <h1>👋 Olá!, meu nome é Cristian! 👋</h1>
-  <h2>😄 Bem vindo ao meu perfil! 😄 </h2>
+  <h2>😄 Desenvolvedor Back-end 😄 </h2>
   <p>Sou programador/Estudante Cursando Analise e deselvolvimento de sistemas, tenho alguns projetos desenvolvidos ultilizando tecnologias de front-end e back-end no decorrer dos estudos em busca de sempre aprender mais</p>
   <p>Hard skils: Java, Spring boot, SQL, javascript, python, selenium, C#, CSS e HTML.</p>
   <p>Soft skils: Organização, resiliencia, facilidade em resolver problemas e comunicativo, adptativo, facilidade em aprender coisas novas.</p>
